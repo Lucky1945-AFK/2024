@@ -4,3 +4,6 @@ https://h5qqf-xqaaa-aaaag-aazea-cai.ic0.app/ | 效率书签
 https://rcy1314.github.io/musiclist/ | noise-music
 https://rcy1314.github.io/some-stars/ | some-stars 
 https://rcy1314.github.io/musiclist/
+
+https://github.com/rcy1314?tab=repositories
+https://github.com/surmon-china
